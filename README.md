@@ -105,7 +105,7 @@
 
 ## Решение 10
 
-меняем файл inventory/prod.yml 
+меняем файл [inventory/prod.yml](https://github.com/Dmitriy-Garfild/ansible_Home_Work_1/blob/main/inventory/prod.yml) 
 добавляем в него 
 
 ```
